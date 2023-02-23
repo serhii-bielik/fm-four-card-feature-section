@@ -1,0 +1,52 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --clr-red: #ea5353;
+  --clr-cyan: #45d3d3;
+  --clr-orange: #fcaf4a;
+  --clr-blue: #549ef2;
+
+  --clr-heading: #4c4e61;
+  --clr-text: #a3a5ae;
+  --clr-bg: #fafafa;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  color: var(--clr-text);
+  background-color: var(--clr-bg);
+}
+
+.container {
+}
+.feature-container {
+}
+.feature-container__title {
+}
+.feature-container__subtitle {
+}
+.feature-container__description {
+}
+.features {
+}
+.features__feature {
+}
+.features__title {
+}
+.features__description {
+}
+.features__feature_cyan {
+}
+.features__feature_red {
+}
+.features__feature_orange {
+}
+.features__feature_blue {
+}
