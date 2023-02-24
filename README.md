@@ -9,5 +9,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshots
 
-![](./screenshot-desktop.png)
+![](./screenshot-desktop1.png)
+![](./screenshot-desktop2.png)
 ![](./screenshot-mobile.png)
